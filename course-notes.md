@@ -84,6 +84,27 @@ http requests can be sent via query strings which are seen after Url or through 
 
 ### Video 6 - RESTful API Constraint Scavenger Hunt
 
+# My Notes 
+
+Constraints that define RESTful 
+- Client Server Architecture
+- Statelessness
+- Layered System
+- Cacheability
+- Uniform Design
+- Code on Demand
+
+Your programme using  will make a request to the server using http for a resource. It will be stateless( the server does not remember 
+anything about the particular client) and if you want to include log-in/authentication to maintain state you will need to put 
+that in the header
+
+Almost Every form of data is a resources and a collection.
+Most things you want your application will be CRUD - Create , Reading , Update , Delete.
+
+
+
+
+
 * [Wikipedia - Representational State Transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)
 
 ## Unit 2 - Exploring APIs
