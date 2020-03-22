@@ -22,7 +22,7 @@ In this unit we'll define what an API, or Application Programming Interface is a
 
 ### Video 2 - Defining Interface
 
-###MyNotes
+### MyNotes
 Interface allows you to control the way it works without knowing how it works. They all define ways for use to communicate with different levels of an application
 
 #### 📚 - Learn more
@@ -37,7 +37,7 @@ Don't worry about understanding it, just appreciate their complexity.
 
 ### Video 3 - Defining API
 
-###MyNotes
+### MyNotes
 APIs define how they expect to be used and also what you should expect.Programming languages have APIs. 
 All browsers have to adhere to web APIs.
 Frameworks use APIs.
@@ -50,7 +50,8 @@ APIs I have used : Browsers , youtube , etc
 
 ### Video 4 - Remote APIs
 
-##Mynotes Remote APIs allow you to gain computational power as it allows you to use a computer else where to do the hardwork and your device acts as the receiver.
+### Mynotes
+Remote APIs allow you to gain computational power as it allows you to use a computer else where to do the hardwork and your device acts as the receiver.
 
 REST - Representational State Transfer 
 Another API style is GraphQL 
