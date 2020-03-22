@@ -65,8 +65,18 @@ When an API is written in the REST format, it is said to be RESTFul
 
 ### Video 5 - How the web works
 
-###MyNotes
+### MyNotes
 Browsers are Web Clients that call for a URL or URI ( Universal Resource Locator/Identifier) 
+http : hypertext transfer protocol. Protocols define the expectations of how to communicate.
+Http Verbs (Request methods) :
+
+GET - mean it will only to receive data from a server and the most important part is the body which is usually HTML (hypertext Markup Language) Hyper text is text that can link to other text and in html it uses anchor tags <a> </a> http is a stateless protocol.
+
+POST - submitting or posting information from a server. 
+
+http requests can be sent via query strings which are seen after Url or through headers.
+
+
 
 
 * [Wikipedia - HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
