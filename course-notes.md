@@ -4,6 +4,8 @@
 
 In this unit we'll define what an API, or Application Programming Interface is and why you should use them.
 
+
+
 ### Video 1 - Welcome
 
 👋 Hello and welcome to the course and your notes! Make sure you check this area out often!
@@ -20,17 +22,26 @@ In this unit we'll define what an API, or Application Programming Interface is a
 
 ### Video 2 - Defining Interface
 
+###MyNotes
+Interface allows you to control the way it works without knowing how it works. They all define ways for use to communicate with different levels of an application
+
 #### 📚 - Learn more
 
 ##### Media Player APIs
 
-Don't worry about understanding it, just appreciate their complexity
+Don't worry about understanding it, just appreciate their complexity. 
 
 * [Android MediaPlayer API documentation](https://developer.android.com/reference/android/media/MediaPlayer). (
 * [iOS Media Player API documentation](https://developer.android.com/reference/android/media/MediaPlayer)
 * [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
 
 ### Video 3 - Defining API
+
+###MyNotes
+APIs define how they expect to be used and also what you should expect.Programming languages have APIs. 
+All browsers have to adhere to web APIs.
+Frameworks use APIs.
+APIs I have used : Browsers , youtube , etc
 
 #### 📚 - Learn more
 
@@ -39,6 +50,12 @@ Don't worry about understanding it, just appreciate their complexity
 
 ### Video 4 - Remote APIs
 
+##Mynotes Remote APIs allow you to gain computational power as it allows you to use a computer else where to do the hardwork and your device acts as the receiver.
+
+REST - Representational State Transfer 
+Another API style is GraphQL 
+When an API is written in the REST format, it is said to be RESTFul
+
 * [Wikipedia - SOAP](https://en.wikipedia.org/wiki/SOAP)
 * [Wikipedia - Remote Procedure Call (RPC)](https://en.wikipedia.org/wiki/Remote_procedure_call)
 * [SOAP and REST at Odds](https://thehistoryoftheweb.com/soap-rest-odds/)
@@ -46,6 +63,10 @@ Don't worry about understanding it, just appreciate their complexity
 * [REST vs. RPC](https://cloud.google.com/blog/products/application-development/rest-vs-rpc-what-problems-are-you-trying-to-solve-with-your-apis)
 
 ### Video 5 - How the web works
+
+###MyNotes
+Browsers are Web Clients that call for a URL or URI ( Universal Resource Locator/Identifier) 
+
 
 * [Wikipedia - HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 * [Space Jam Website](http://www.spacejam.com)
