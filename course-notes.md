@@ -72,7 +72,13 @@ Http Verbs (Request methods) :
 
 GET - mean it will only to receive data from a server and the most important part is the body which is usually HTML (hypertext Markup Language) Hyper text is text that can link to other text and in html it uses anchor tags <a> </a> http is a stateless protocol.
 
-POST - submitting or posting information from a server. 
+POST - submitting or posting information from a server.  (create)
+
+PUT - update
+
+PATCH  - update 
+
+DELETE  - delete
 
 http requests can be sent via query strings which are seen after Url or through headers.
 
@@ -100,6 +106,9 @@ that in the header
 
 Almost Every form of data is a resources and a collection.
 Most things you want your application will be CRUD - Create , Reading , Update , Delete.
+
+Body is usually represented in JSON. 
+
 
 
 
