@@ -120,6 +120,12 @@ Body is usually represented in JSON.
 
 ### Video 1 - Exploring an API online
 
+# My Notes
+SDK - this is a software development kit and it gives an API that will feel native to your programming language
+OAuth Tokens - explains to the app what the use is authorised to do.
+SPotify's API is using a cache systme
+
+
 * [Spotify for Developers](https://developer.spotify.com/)
 * [Spotify - Search API {BETA}](https://developer.spotify.com/documentation/web-api/reference-beta/#category-search)
 * [Lizzo's Spotify Page](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS)
