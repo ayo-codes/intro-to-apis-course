@@ -123,7 +123,7 @@ Body is usually represented in JSON.
 # My Notes
 SDK - this is a software development kit and it gives an API that will feel native to your programming language
 OAuth Tokens - explains to the app what the use is authorised to do.
-SPotify's API is using a cache systme
+SPotify's API is using a cache system 
 
 
 * [Spotify for Developers](https://developer.spotify.com/)
@@ -136,6 +136,9 @@ SPotify's API is using a cache systme
 ProgrammableWeb provides [a categorized directory of APIs](https://www.programmableweb.com/category-api). API List provides [categories and a powerful search feature](https://apilist.fun/).
 
 ### Video 2 - Using an API from the command line
+
+# My Notes 
+you will need to use curl 
 
 * [Twilio](www.twilio.com/referral/d4X15O)
 * [Twilio Console](https://twilio.com/console?utm_source=gh-link&utm_medium=referral&utm_campaign=intro-to-apis)
@@ -173,6 +176,8 @@ Remove-Item alias:curl
 
 ### Video 3 - Using Postman to explore APIs
 
+# My Notes
+You will need to learn how to use postman
 ⬇️ - Download [Postman](https://getpostman.com)
 
 The Twilio Messages API URL is:
